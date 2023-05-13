@@ -1,0 +1,6 @@
+[
+{"id":1,"name":"IPTV","url":"https://raw.githubusercontent.com/meinvtuzai/zy3/master/lives/iptv.m3u","isActive":true,"epg":"https://epg.112114.xyz/"},
+{"id":2,"name":"bestv","url":"https://raw.githubusercontent.com/meinvtuzai/zy3/master/lives/bestv.m3u","isActive":true,"epg":"https://epg.112114.xyz/"},
+{"id":3,"name":"肥羊精选","url":"https://raw.githubusercontent.com/meinvtuzai/zy3/master/lives/feiyang.m3u","isActive":true,"epg":""},
+{"id":4,"name":"茶客","url":"https://raw.githubusercontent.com/meinvtuzai/zy3/master/lives/tea.m3u","isActive":true,"epg":""}
+]

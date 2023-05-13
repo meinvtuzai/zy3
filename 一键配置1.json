@@ -1,5 +1,4 @@
 {
-//站点源
 "sites":{
 "default":5,"data":[
 {"key":"9pCiEt","name":"海外看（墙）","api":"https://haiwaikan.com/api.php/provide/vod/","download":"","jiexiUrl":"","group":"影视","isActive":true,"reverseOrder":false,"status":true,"id":1},
@@ -93,17 +92,14 @@
 {"key":"2Luala","name":"辣椒资源","api":"https://apilj.com/api.php/provide/vod/","download":"","jiexiUrl":"","group":"18+","isActive":true,"reverseOrder":false,"status":true,"id":372}
 ]},
 
-//直播源
 "iptv":{
 "default":2,"data":[
-{"id":1,"name":"IPTV","url":"https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u","isActive":true,"epg":"https://epg.112114.xyz/"},
-{"id":2,"name":"bestv","url":"https://telegram-feiyangdigital.v1.mk/bestv.m3u","isActive":true,"epg":"https://epg.112114.xyz/"},
-{"id":3,"name":"肥羊精选","url":"https://telegram-feiyangdigital.v1.mk","isActive":true,"epg":""},
-{"id":4,"name":"genre","url":"http://vod.98nb.com/lives/tv.php","isActive":true,"epg":""},
-{"id":5,"name":"茶客","url":"https://ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U","isActive":true,"epg":""}
+{"id":1,"name":"IPTV","url":"https://raw.githubusercontent.com/meinvtuzai/zy3/master/lives/iptv.m3u","isActive":true,"epg":"https://epg.112114.xyz/"},
+{"id":2,"name":"bestv","url":"https://raw.githubusercontent.com/meinvtuzai/zy3/master/lives/bestv.m3u","isActive":true,"epg":"https://epg.112114.xyz/"},
+{"id":3,"name":"肥羊精选","url":"https://raw.githubusercontent.com/meinvtuzai/zy3/master/lives/feiyang.m3u","isActive":true,"epg":""},
+{"id":4,"name":"茶客","url":"https://raw.githubusercontent.com/meinvtuzai/zy3/master/lives/tea.m3u","isActive":true,"epg":""}
 ]},
 
-//解析源
 "analyzes":{
 "default":3,"data":[
 {"id":1,"name":"纯净/B站1","url":"https://im1907.top/?jx=","isActive":true},
@@ -140,4 +136,5 @@
 {"id":33,"name":"ccyjjd","url":"https://ckmov.ccyjjd.com/ckmov/?url=","isActive":true},
 {"id":34,"name":"盖世","url":"https://www.gai4.com/?url=","isActive":true}
 ]}
+
 }
