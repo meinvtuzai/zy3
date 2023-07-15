@@ -9,7 +9,9 @@
     "isActive": true,
     "reverseOrder": false,
     "status": true,
-    "id": 1
+    "id": 1,
+    "type": 1,
+    "search": 2
   },
   {
     "key": "4wFLjy",
@@ -21,7 +23,9 @@
     "isActive": true,
     "reverseOrder": false,
     "status": true,
-    "id": 2
+    "id": 2,
+    "type": 1,
+    "search": 2
   },
   {
     "key": "cGkdiY",
@@ -33,7 +37,9 @@
     "isActive": true,
     "reverseOrder": false,
     "status": true,
-    "id": 3
+    "id": 3,
+    "search": 2,
+    "type": 1
   },
   {
     "key": "39kan",
@@ -44,7 +50,8 @@
     "isActive": true,
     "status": true,
     "type": 1,
-    "id": 4
+    "id": 4,
+    "search": 1
   },
   {
     "key": "vipmv",
@@ -55,7 +62,8 @@
     "isActive": true,
     "status": true,
     "type": 1,
-    "id": 5
+    "id": 5,
+    "search": 1
   },
   {
     "key": "wolongzyw",
@@ -66,7 +74,8 @@
     "isActive": true,
     "status": true,
     "type": 1,
-    "id": 6
+    "id": 6,
+    "search": 1
   },
   {
     "key": "lziapi",
@@ -77,18 +86,8 @@
     "isActive": true,
     "status": true,
     "type": 1,
-    "id": 7
-  },
-  {
-    "key": "foxzyapi",
-    "name": "FOX资源(切)",
-    "api": "https://api.foxzyapi.com/api.php/provide/vod/",
-    "jiexiUrl": "",
-    "group": "影视",
-    "isActive": true,
-    "status": true,
-    "type": 1,
-    "id": 8
+    "id": 7,
+    "search": 1
   },
   {
     "key": "lehootv",
@@ -99,18 +98,8 @@
     "isActive": true,
     "status": true,
     "type": 1,
-    "id": 241
-  },
-  {
-    "key": "kuaibozy",
-    "name": "快播资源",
-    "api": "http://www.kuaibozy.com/api.php/provide/vod/",
-    "jiexiUrl": "",
-    "group": "影视",
-    "isActive": true,
-    "status": true,
-    "type": 1,
-    "id": 242
+    "id": 9,
+    "search": 1
   },
   {
     "key": "apibdzy",
@@ -121,18 +110,8 @@
     "isActive": true,
     "status": true,
     "type": 1,
-    "id": 243
-  },
-  {
-    "key": "tomziyuan",
-    "name": "tom资源网(切)",
-    "api": "https://tomziyuan.com/api.php/provide/vod/",
-    "jiexiUrl": "",
-    "group": "影视",
-    "isActive": true,
-    "status": true,
-    "type": 1,
-    "id": 244
+    "id": 11,
+    "search": 1
   },
   {
     "key": "wolongzyw",
@@ -143,18 +122,8 @@
     "isActive": true,
     "status": true,
     "type": 1,
-    "id": 245
-  },
-  {
-    "key": "kudianzy",
-    "name": "酷点资源(切)",
-    "api": "https://kudianzy.com/api.php/provide/vod/",
-    "jiexiUrl": "",
-    "group": "影视",
-    "isActive": true,
-    "status": true,
-    "type": 1,
-    "id": 246
+    "id": 13,
+    "search": 1
   },
   {
     "key": "taopianapi",
@@ -165,7 +134,8 @@
     "isActive": true,
     "status": true,
     "type": 1,
-    "id": 247
+    "id": 15,
+    "search": 1
   },
   {
     "key": "xinlangapi",
@@ -176,18 +146,8 @@
     "isActive": true,
     "status": true,
     "type": 1,
-    "id": 248
-  },
-  {
-    "key": "lziapi",
-    "name": "量子资源",
-    "api": "https://cj.lziapi.com/api.php/provide/vod/from/liangzi/",
-    "jiexiUrl": "",
-    "group": "影视",
-    "isActive": true,
-    "status": true,
-    "type": 1,
-    "id": 249
+    "id": 16,
+    "search": 1
   },
   {
     "key": "yulecj",
@@ -198,7 +158,8 @@
     "isActive": true,
     "status": true,
     "type": 1,
-    "id": 250
+    "id": 18,
+    "search": 1
   },
   {
     "key": "sdzyapi",
@@ -209,18 +170,8 @@
     "isActive": true,
     "status": true,
     "type": 1,
-    "id": 251
-  },
-  {
-    "key": "yparse",
-    "name": "步步高资源",
-    "api": "https://api.yparse.com/api/json",
-    "jiexiUrl": "",
-    "group": "影视",
-    "isActive": true,
-    "status": true,
-    "type": 1,
-    "id": 252
+    "id": 19,
+    "search": 1
   },
   {
     "key": "ckzy",
@@ -231,18 +182,8 @@
     "isActive": true,
     "status": true,
     "type": 1,
-    "id": 253
-  },
-  {
-    "key": "guangsuapi",
-    "name": "光速资源",
-    "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-    "jiexiUrl": "",
-    "group": "影视",
-    "isActive": true,
-    "status": true,
-    "type": 1,
-    "id": 254
+    "id": 21,
+    "search": 1
   },
   {
     "key": "jyzyapi",
@@ -253,7 +194,8 @@
     "isActive": true,
     "status": true,
     "type": 1,
-    "id": 255
+    "id": 23,
+    "search": 1
   },
   {
     "key": "tiankongapi",
@@ -264,7 +206,8 @@
     "isActive": true,
     "status": true,
     "type": 1,
-    "id": 256
+    "id": 24,
+    "search": 1
   },
   {
     "key": "feisuzy",
@@ -275,7 +218,8 @@
     "isActive": true,
     "status": true,
     "type": 1,
-    "id": 257
+    "id": 25,
+    "search": 1
   },
   {
     "key": "ylzy1",
@@ -285,18 +229,9 @@
     "group": "影视",
     "isActive": true,
     "status": true,
-    "id": 258
-  },
-  {
-    "key": "kudian8",
-    "name": "酷点资源",
-    "api": "https://kudian8.com/api.php/provide/vod/",
-    "jiexiUrl": "",
-    "group": "影视",
-    "isActive": true,
-    "status": true,
-    "type": 1,
-    "id": 259
+    "id": 26,
+    "search": 1,
+    "type": 1
   },
   {
     "key": "zzrhgg",
@@ -307,7 +242,8 @@
     "isActive": true,
     "status": true,
     "type": 1,
-    "id": 260
+    "id": 28,
+    "search": 1
   },
   {
     "key": "hanjuzy",
@@ -318,7 +254,8 @@
     "isActive": true,
     "status": true,
     "type": 1,
-    "id": 261
+    "id": 29,
+    "search": 1
   },
   {
     "key": "28393120-9d11-5110-b209-c925b2d8f87e",
@@ -330,7 +267,8 @@
     "status": true,
     "isActive": true,
     "type": 1,
-    "id": 262
+    "id": 30,
+    "search": 1
   },
   {
     "key": "9fbbb48c-d822-55ed-baee-40964804d8a9",
@@ -342,7 +280,8 @@
     "status": true,
     "isActive": true,
     "type": 1,
-    "id": 263
+    "id": 31,
+    "search": 1
   },
   {
     "key": "apiyhzy",
@@ -354,18 +293,8 @@
     "status": true,
     "isActive": true,
     "type": 1,
-    "id": 264
-  },
-  {
-    "key": "酷点资源(官)",
-    "name": "酷点资源(官)",
-    "api": "https://kudianzy.com/api.php/provide/vod/",
-    "jiexiUrl": "",
-    "group": "优质",
-    "isActive": true,
-    "status": true,
-    "reverseOrder": false,
-    "id": 270
+    "id": 32,
+    "search": 1
   },
   {
     "key": "U酷资源(优)",
@@ -376,7 +305,9 @@
     "isActive": true,
     "status": true,
     "reverseOrder": false,
-    "id": 271
+    "id": 34,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "天天看(优)",
@@ -387,7 +318,9 @@
     "isActive": true,
     "status": true,
     "reverseOrder": false,
-    "id": 272
+    "id": 35,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "乐活影视(优)",
@@ -398,7 +331,9 @@
     "isActive": true,
     "status": true,
     "reverseOrder": false,
-    "id": 274
+    "id": 36,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "飘花电影(聚)",
@@ -409,7 +344,9 @@
     "isActive": true,
     "status": true,
     "reverseOrder": false,
-    "id": 277
+    "id": 37,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "39影视(聚)",
@@ -420,7 +357,9 @@
     "isActive": true,
     "status": true,
     "reverseOrder": false,
-    "id": 278
+    "id": 38,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "飘零影院(聚)",
@@ -431,7 +370,9 @@
     "isActive": true,
     "status": true,
     "reverseOrder": false,
-    "id": 279
+    "id": 39,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "影图(聚)",
@@ -442,7 +383,9 @@
     "isActive": true,
     "status": true,
     "reverseOrder": false,
-    "id": 280
+    "id": 40,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "卧龙资源(切)",
@@ -453,18 +396,9 @@
     "isActive": true,
     "status": true,
     "reverseOrder": false,
-    "id": 281
-  },
-  {
-    "key": "南国影源(切)",
-    "name": "南国影源(切)",
-    "api": "http://api.nguonphim.tv/api.php/provide/vod/",
-    "jiexiUrl": "",
-    "group": "切片",
-    "isActive": true,
-    "status": true,
-    "reverseOrder": false,
-    "id": 282
+    "id": 41,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "百度资源(切)",
@@ -475,18 +409,9 @@
     "isActive": true,
     "status": true,
     "reverseOrder": false,
-    "id": 283
-  },
-  {
-    "key": "快播资源(切)",
-    "name": "快播资源(切)",
-    "api": "http://www.kuaibozy.com/api.php/provide/vod/",
-    "jiexiUrl": "",
-    "group": "切片",
-    "isActive": true,
-    "status": true,
-    "reverseOrder": false,
-    "id": 285
+    "id": 43,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "鱼乐资源(切)",
@@ -497,18 +422,9 @@
     "isActive": true,
     "status": true,
     "reverseOrder": false,
-    "id": 287
-  },
-  {
-    "key": "光速资源(切)",
-    "name": "光速资源(切)",
-    "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-    "jiexiUrl": "",
-    "group": "切片",
-    "isActive": true,
-    "status": true,
-    "reverseOrder": false,
-    "id": 288
+    "id": 45,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "闪电资源(切)",
@@ -519,7 +435,9 @@
     "isActive": true,
     "status": true,
     "reverseOrder": false,
-    "id": 289
+    "id": 47,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "量子资源(切)",
@@ -530,7 +448,9 @@
     "isActive": true,
     "status": true,
     "reverseOrder": false,
-    "id": 290
+    "id": 48,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "9E6A9BA7661B8B2871F345B7C642C105",
@@ -541,18 +461,9 @@
     "group": "常规",
     "reverseOrder": false,
     "status": true,
-    "id": 291
-  },
-  {
-    "key": "DEC7A6AC36ED68D22EDA4EA00AF3FC64",
-    "name": "lehoo资源",
-    "api": "https://www.lehootv.com/api.php/provide/vod/",
-    "useInSearchAll": true,
-    "isActive": true,
-    "group": "常规",
-    "reverseOrder": false,
-    "status": true,
-    "id": 292
+    "id": 49,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "DC863C4C546FB4B7743790DFA1993008",
@@ -563,18 +474,9 @@
     "group": "常规",
     "reverseOrder": false,
     "status": true,
-    "id": 293
-  },
-  {
-    "key": "3FF1AF94E5E28C6A9A22BBE1E70EB3E2",
-    "name": "快播资源",
-    "api": "http://www.kuaibozy.com/api.php/provide/vod/",
-    "useInSearchAll": true,
-    "isActive": true,
-    "group": "常规",
-    "reverseOrder": false,
-    "status": true,
-    "id": 294
+    "id": 51,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "1399B528FF612B4EFCA3E184C022B2BE",
@@ -585,18 +487,9 @@
     "group": "常规",
     "reverseOrder": false,
     "status": true,
-    "id": 295
-  },
-  {
-    "key": "DF9176A64A29075DEB110887448038F6",
-    "name": "光速资源",
-    "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-    "useInSearchAll": true,
-    "isActive": true,
-    "group": "常规",
-    "reverseOrder": false,
-    "status": true,
-    "id": 296
+    "id": 53,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "41230C9A0AEA6AAFC40304B15EEFC162",
@@ -607,7 +500,9 @@
     "group": "常规",
     "reverseOrder": false,
     "status": true,
-    "id": 297
+    "id": 55,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "2529CA9EC6FB50A146984E44C54947A1",
@@ -618,18 +513,9 @@
     "group": "常规",
     "reverseOrder": false,
     "status": true,
-    "id": 298
-  },
-  {
-    "key": "4EEF8D80E139D4DA9822917C322B29F0",
-    "name": "快播云2",
-    "api": "http://www.kuaibozy.com/api.php/provide/vod/",
-    "useInSearchAll": true,
-    "isActive": true,
-    "group": "常规",
-    "reverseOrder": false,
-    "status": true,
-    "id": 300
+    "id": 56,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "D0633291C6A796F8C10441133481E9F9",
@@ -640,7 +526,9 @@
     "group": "常规",
     "reverseOrder": false,
     "status": true,
-    "id": 301
+    "id": 58,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "822183CC2F23EBA27777A7588F2B1041",
@@ -650,7 +538,9 @@
     "isActive": true,
     "reverseOrder": false,
     "status": true,
-    "id": 302
+    "id": 59,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "B424455C5FC27549155BF16E59C366D0",
@@ -661,7 +551,9 @@
     "group": "常规",
     "reverseOrder": false,
     "status": true,
-    "id": 307
+    "id": 60,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "DE0EF8F589FED444E4CA11A3FAEFD9F4",
@@ -672,7 +564,9 @@
     "group": "常规",
     "reverseOrder": false,
     "status": true,
-    "id": 308
+    "id": 61,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "C2850C99DBBAB1270FD997DEE12089A4",
@@ -683,7 +577,9 @@
     "group": "常规",
     "reverseOrder": false,
     "status": true,
-    "id": 309
+    "id": 62,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "92AD64EBFE72BDD63F7418071AA5ABB7",
@@ -694,18 +590,9 @@
     "group": "常规",
     "reverseOrder": false,
     "status": true,
-    "id": 310
-  },
-  {
-    "key": "547B0A104A8D8999AA05D3D23D36F749",
-    "name": "酷点资源",
-    "api": "https://api.kuapi.cc/api.php/provide/vod/",
-    "useInSearchAll": true,
-    "isActive": true,
-    "group": "常规",
-    "reverseOrder": false,
-    "status": true,
-    "id": 311
+    "id": 63,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "91AAE60CCAE6609C629917A8BBABEDEE",
@@ -716,29 +603,9 @@
     "group": "常规",
     "reverseOrder": false,
     "status": true,
-    "id": 312
-  },
-  {
-    "key": "39500CBF225CD757317EF73EBE07D44F",
-    "name": "快播云",
-    "api": "http://www.kuaibozy.com/api.php/provide/vod/",
-    "useInSearchAll": true,
-    "isActive": true,
-    "group": "常规",
-    "reverseOrder": false,
-    "status": true,
-    "id": 314
-  },
-  {
-    "key": "24BE8B50B518A273E167C2D5DDBDD73F",
-    "name": "酷点m3u8",
-    "api": "https://api.kuapi.cc/api.php/provide/vod/",
-    "useInSearchAll": true,
-    "isActive": true,
-    "group": "常规",
-    "reverseOrder": false,
-    "status": true,
-    "id": 315
+    "id": 65,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "82664C03F9D28E67F8A03178A8C854C1",
@@ -748,18 +615,9 @@
     "isActive": true,
     "reverseOrder": false,
     "status": true,
-    "id": 316
-  },
-  {
-    "key": "siwazyw",
-    "name": "丝袜资源",
-    "api": "https://siwazyw.cc/api.php/provide/vod/",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": true,
-    "status": true,
-    "reverseOrder": false,
-    "id": 320
+    "id": 68,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "apilyzy",
@@ -770,7 +628,9 @@
     "isActive": true,
     "status": true,
     "reverseOrder": false,
-    "id": 321
+    "id": 70,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "apittzy",
@@ -781,7 +641,9 @@
     "isActive": true,
     "status": true,
     "reverseOrder": false,
-    "id": 323
+    "id": 71,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "kkzy",
@@ -792,7 +654,9 @@
     "isActive": true,
     "status": true,
     "reverseOrder": false,
-    "id": 324
+    "id": 72,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "shayu",
@@ -803,7 +667,9 @@
     "isActive": true,
     "status": true,
     "reverseOrder": false,
-    "id": 326
+    "id": 73,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "lb",
@@ -814,7 +680,9 @@
     "isActive": true,
     "status": true,
     "reverseOrder": false,
-    "id": 327
+    "id": 74,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "6087262508D5DA31DDB59B7843E2EE24",
@@ -825,18 +693,9 @@
     "group": "18+",
     "reverseOrder": false,
     "status": true,
-    "id": 331
-  },
-  {
-    "key": "489BF762FCAECC1E2B7647A4019BC052",
-    "name": "佳丽资源",
-    "api": "http://www.jializyzapi.com/api.php/provide/vod/",
-    "useInSearchAll": true,
-    "isActive": true,
-    "group": "18+",
-    "reverseOrder": false,
-    "status": true,
-    "id": 332
+    "id": 75,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "B25D737492A5D48AAE02FEDD0A64E28C",
@@ -847,7 +706,9 @@
     "group": "18+",
     "reverseOrder": false,
     "status": true,
-    "id": 334
+    "id": 77,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "9840ABFF19CC669F2D4BBF6D35626797",
@@ -858,29 +719,9 @@
     "group": "18+",
     "reverseOrder": false,
     "status": true,
-    "id": 335
-  },
-  {
-    "key": "9F50968D012DE00BCD3AB671DFC06404",
-    "name": "酷豆资源",
-    "api": "https://kudouzy.com/api.php/provide/vod/",
-    "useInSearchAll": true,
-    "isActive": true,
-    "group": "18+",
-    "reverseOrder": false,
-    "status": true,
-    "id": 336
-  },
-  {
-    "key": "59E15B6572194757F2FB047F4F6F5BBB",
-    "name": "99资源",
-    "api": "http://99zy.pw/api.php/provide/vod/",
-    "useInSearchAll": true,
-    "isActive": true,
-    "group": "18+",
-    "reverseOrder": false,
-    "status": true,
-    "id": 337
+    "id": 78,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "ECC5170BF22A4C29BB752894DA000CFA",
@@ -891,29 +732,9 @@
     "group": "18+",
     "reverseOrder": false,
     "status": true,
-    "id": 338
-  },
-  {
-    "key": "AF6A953016CE05A005E16396603C0F98",
-    "name": "秀色资源",
-    "api": "https://api.xiuseapi.com/api.php/provide/vod/",
-    "useInSearchAll": true,
-    "isActive": true,
-    "group": "18+",
-    "reverseOrder": false,
-    "status": true,
-    "id": 339
-  },
-  {
-    "key": "95D4D2EB18BD0543685A486C2F82540D",
-    "name": "水蜜桃",
-    "api": "http://51smt4.xyz/api.php/provide/vod/",
-    "useInSearchAll": true,
-    "isActive": true,
-    "group": "18+",
-    "reverseOrder": false,
-    "status": true,
-    "id": 340
+    "id": 81,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "C14AD3C2D0BE760499ABB76D2D2E5BF0",
@@ -924,18 +745,9 @@
     "group": "18+",
     "reverseOrder": false,
     "status": true,
-    "id": 341
-  },
-  {
-    "key": "1CB223CA6BC97705C87667C3C04CF04D",
-    "name": "丝W资源",
-    "api": "https://siwazyw.cc/api.php/provide/vod/",
-    "useInSearchAll": true,
-    "isActive": true,
-    "group": "18+",
-    "reverseOrder": false,
-    "status": true,
-    "id": 342
+    "id": 84,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "C7rerH",
@@ -947,7 +759,9 @@
     "isActive": true,
     "reverseOrder": false,
     "status": true,
-    "id": 344
+    "id": 86,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "A5830495BA804C7451C2CF1CA23CB2DA",
@@ -958,19 +772,9 @@
     "group": "18+",
     "reverseOrder": false,
     "status": true,
-    "id": 362
-  },
-  {
-    "key": "YNlu0m",
-    "name": "酷豆2",
-    "api": "https://api.kdapi.info/api.php/provide/vod/",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": true,
-    "reverseOrder": false,
-    "status": true,
-    "id": 366
+    "id": 87,
+    "type": 1,
+    "search": 1
   },
   {
     "key": "2Luala",
@@ -982,6 +786,8 @@
     "isActive": true,
     "reverseOrder": false,
     "status": true,
-    "id": 372
+    "id": 89,
+    "type": 1,
+    "search": 1
   }
 ]
